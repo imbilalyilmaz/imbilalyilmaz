@@ -15,6 +15,11 @@
 </a>
 </p>
 
+---
+
+### :man_technologist: About Me :
+My name is Bilal and I am studying Computer Engineering at Çanakkale Onsekiz Mart University.
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
