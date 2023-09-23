@@ -7,7 +7,7 @@
 </div>
 
 ---
-### 💬Let's Connect and have a Chat!
+### 💬 Let's Connect and have a Chat!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/imbilalyilmaz/">
