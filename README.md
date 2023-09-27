@@ -17,13 +17,15 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-<a href="">
-    <img src="https://komarev.com/ghpvc/?username=imbilalyilmaz&style=for-the-badge">
-</a>
+
 ---
 
 ### :man_technologist: About Me :
 My name is Bilal and I am studying Computer Engineering at Çanakkale Onsekiz Mart University.
+
+<a href="">
+    <img src="https://komarev.com/ghpvc/?username=imbilalyilmaz&style=for-the-badge">
+</a>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
