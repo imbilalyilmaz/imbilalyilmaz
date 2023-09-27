@@ -24,7 +24,7 @@
 My name is Bilal and I am studying Computer Engineering at Çanakkale Onsekiz Mart University.
 
 <a href="">
-    <img src="https://komarev.com/ghpvc/?username=imbilalyilmaz&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=imbilalyilmaz&style=flat">
 </a>
 
 <p align="left">
