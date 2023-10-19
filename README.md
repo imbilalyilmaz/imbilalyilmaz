@@ -6,6 +6,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💬 Let's Connect and have a Chat!
 
@@ -18,7 +19,7 @@
 </a>
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### :man_technologist: About Me :
 My name is Bilal and I am studying Computer Engineering at Çanakkale Onsekiz Mart University.
