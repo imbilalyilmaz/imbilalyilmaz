@@ -27,6 +27,8 @@ My name is Bilal and I am studying Computer Engineering at Çanakkale Onsekiz Ma
     <img src="https://komarev.com/ghpvc/?username=imbilalyilmaz&style=flat">
 </a>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <img alt="Efrun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=imbilalyilmaz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <p align="left">
