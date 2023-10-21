@@ -24,9 +24,7 @@
 ### :man_technologist: About Me :
 My name is Bilal and I am studying Computer Engineering at Çanakkale Onsekiz Mart University.
 
-<a href="">
-    <img src="https://komarev.com/ghpvc/?username=imbilalyilmaz&style=flat">
-</a>
+[![](https://visitcount.itsvg.in/api?id=imbilalyilmaz&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
