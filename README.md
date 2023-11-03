@@ -11,10 +11,10 @@
 ### 💬 Let's Connect and have a Chat!
 
 
-<a href="https://www.linkedin.com/in/imbilalyilmaz/">
+<a href="https://www.linkedin.com/in/imbilalyilmaz/" target = "_blank">
     <img height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/bil4ly/">
+<a href="https://www.instagram.com/bil4ly/" target = "_blank">
   <img height="25px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
