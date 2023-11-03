@@ -11,7 +11,7 @@
 ### 💬 Let's Connect and have a Chat!
 
 
-<a href="https://www.linkedin.com/in/imbilalyilmaz/" target = "_blank" style = "margin-left= 5px;">
+<a href="https://www.linkedin.com/in/imbilalyilmaz/" target = "_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/bil4ly/" target = "_blank">
